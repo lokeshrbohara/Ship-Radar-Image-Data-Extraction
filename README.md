@@ -26,8 +26,8 @@ An Application of Keras-OCR and PyTesseract to extract selected texts from a rad
 <img src="https://github.com/lokeshrbohara/Ship-Radar-Image-Data-Extraction/blob/main/sample%20images/bar.png" alt="Deepsea" />
 
 ## Installation Steps:
-#### 1. Clone the repository: <br><br> ```git clone https://github.com/rohangawhade/Ship-Radar-Image-to-Text.git```
-#### 2. Move to the directory: <br><br> ```cd Ship-Radar-Image-to-Text```
+#### 1. Clone the repository: <br><br> ```git clone https://github.com/lokeshrbohara/Ship-Radar-Image-Data-Extraction.git```
+#### 2. Move to the directory: <br><br> ```cd Ship-Radar-Image-Data-Extraction```
 #### 3. Install requirements: <br><br> ```pip install -r requirements.txt```
 #### 4. Update the path of Pytesseract in ```Radar.py``` file
 #### 5. Run app.py: <br><br> ```python app.py```
